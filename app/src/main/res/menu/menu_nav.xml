@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single" >
+        <item android:id="@+id/sanPham"
+            android:icon="@drawable/ic_user"
+            android:title="Sản Phẩm"
+            />
+        <item android:id="@+id/xacNhanDH"
+            android:icon="@drawable/ic_user"
+            android:title="Xác nhận đơn hàng"
+            />
+        <item android:id="@+id/donHangDangGiao"
+            android:icon="@drawable/ic_user"
+            android:title="Đơn hàng đang giao"
+            />
+        <item android:id="@+id/donHangThanhCong"
+            android:icon="@drawable/ic_user"
+            android:title="Đơn hàng thành công"
+            />
+        <item android:id="@+id/donHangThatBai"
+            android:icon="@drawable/ic_user"
+            android:title="Đơn hàng thất bại"
+            />
+        <item android:id="@+id/tinNhan"
+            android:icon="@drawable/ic_user"
+            android:title="Tin Nhắn"
+            />
+
+        <item android:id="@+id/thongKeHoaDon"
+            android:icon="@drawable/ic_user"
+            android:title="Thống kê hoá đơn"
+            />
+        <item android:id="@+id/thongKeSanPham"
+            android:icon="@drawable/ic_user"
+            android:title="Thống kê sản phẩm"
+            />
+        <item android:id="@+id/danhSachNguoiDung"
+            android:icon="@drawable/ic_user"
+            android:title="Danh sach nguoi dung"
+            />
+        <item android:id="@+id/dangXuat"
+            android:icon="@drawable/ic_user"
+            android:title="Đăng xuất"
+            />
+
+
+    </group>
+<!--    <item android:id="@+id/Lg" android:title="logout">-->
+<!--    <menu>-->
+<!--        <item android:title="DangXuat"-->
+<!--            android:icon="@drawable/ic_list"-->
+<!--            android:id="@+id/logout"-->
+<!--            />-->
+<!--    </menu>-->
+
+<!--    </item>-->
+
+</menu>

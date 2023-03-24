@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="..\:/DuAnOderFoodNhom1/app/src/main/res/drawable/ic_password.xml" value="0.2555" />
+        <entry key="..\:/DuAnOderFoodNhom1/app/src/main/res/drawable/receiver_message.xml" value="0.1435" />
+        <entry key="..\:/DuAnOderFoodNhom1/app/src/main/res/drawable/sender_message.xml" value="0.1435" />
+        <entry key="..\:/DuAnOderFoodNhom1/app/src/main/res/layout/activity_burger.xml" value="0.26145833333333335" />
+        <entry key="..\:/DuAnOderFoodNhom1/app/src/main/res/layout/activity_burger_detail.xml" value="0.26145833333333335" />
+        <entry key="..\:/DuAnOderFoodNhom1/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/DuAnOderFoodNhom1/app/src/main/res/layout/activity_main.xml" value="0.26145833333333335" />
+        <entry key="..\:/DuAnOderFoodNhom1/app/src/main/res/layout/activity_otpactivity.xml" value="0.25" />
+        <entry key="..\:/DuAnOderFoodNhom1/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/DuAnOderFoodNhom1/app/src/main/res/layout/fragment_chat.xml" value="0.26145833333333335" />
+        <entry key="..\:/DuAnOderFoodNhom1/app/src/main/res/layout/fragment_home.xml" value="0.26145833333333335" />
+        <entry key="..\:/DuAnOderFoodNhom1/app/src/main/res/layout/fragment_user.xml" value="0.26145833333333335" />
+        <entry key="..\:/DuAnOderFoodNhom1/app/src/main/res/layout/item_burger.xml" value="0.25" />
+        <entry key="..\:/DuAnOderFoodNhom1/app/src/main/res/layout/item_revenue_statistic.xml" value="0.25" />
+        <entry key="..\:/DuAnOderFoodNhom1/app/src/main/res/layout/layout_receiver_message.xml" value="0.25" />
+        <entry key="..\:/DuAnOderFoodNhom1/app/src/main/res/layout/layout_sender_message.xml" value="0.25" />
+        <entry key="..\:/DuAnOderFoodNhom1/app/src/main/res/layout/styles.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/custom_back_to_main.xml" value="0.1375" />
+        <entry key="app/src/main/res/drawable/custom_burger_details.xml" value="0.1375" />
+        <entry key="app/src/main/res/layout/activity_add_new_product.xml" value="0.17980072463768115" />
+        <entry key="app/src/main/res/layout/activity_admin.xml" value="0.17980072463768115" />
+        <entry key="app/src/main/res/layout/activity_burger.xml" value="0.17980072463768115" />
+        <entry key="app/src/main/res/layout/activity_burger_detail.xml" value="0.17980072463768115" />
+        <entry key="app/src/main/res/layout/activity_cart.xml" value="0.17980072463768115" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.17980072463768115" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.17980072463768115" />
+        <entry key="app/src/main/res/layout/activity_pay_bill.xml" value="0.17980072463768115" />
+        <entry key="app/src/main/res/layout/activity_pay_success.xml" value="0.15306844595284938" />
+        <entry key="app/src/main/res/layout/activity_product_detail.xml" value="0.17980072463768115" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.17980072463768115" />
+        <entry key="app/src/main/res/layout/custom_toast_layout.xml" value="0.1793478260869565" />
+        <entry key="app/src/main/res/layout/dialog_lido.xml" value="0.1793478260869565" />
+        <entry key="app/src/main/res/layout/fragment_history.xml" value="0.17980072463768115" />
+        <entry key="app/src/main/res/layout/fragment_notification.xml" value="0.1793478260869565" />
+        <entry key="app/src/main/res/layout/fragment_product.xml" value="0.17980072463768115" />
+        <entry key="app/src/main/res/layout/fragment_revenue_statistic.xml" value="0.17980072463768115" />
+        <entry key="app/src/main/res/layout/fragment_user.xml" value="0.17980072463768115" />
+        <entry key="app/src/main/res/layout/header_navigation.xml" value="0.17980072463768115" />
+        <entry key="app/src/main/res/layout/item_burger.xml" value="0.17980072463768115" />
+        <entry key="app/src/main/res/layout/item_burger_act.xml" value="0.17980072463768115" />
+        <entry key="app/src/main/res/layout/item_cart.xml" value="0.17980072463768115" />
+        <entry key="app/src/main/res/layout/item_new_order.xml" value="0.17980072463768115" />
+        <entry key="app/src/main/res/layout/item_notification.xml" value="0.1793478260869565" />
+        <entry key="app/src/main/res/layout/item_pay.xml" value="0.34031250442283745" />
+        <entry key="app/src/main/res/layout/item_revenue_statistic.xml" value="0.17980072463768115" />
+        <entry key="app/src/main/res/layout/new_order.xml" value="0.25236084426658745" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/menu/menu_nav.xml" value="0.23854166666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

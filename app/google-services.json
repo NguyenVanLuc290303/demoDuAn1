@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003317410083",
+    "project_id": "dan1-3d07e",
+    "storage_bucket": "dan1-3d07e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003317410083:android:906154feb250c6d330b496",
+        "android_client_info": {
+          "package_name": "ph29152.fptpoly.duanoderfoodnhom1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003317410083-b0387v49asag5c83v9np4s48uggefan4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuxkDXiDKQDN_8vh2A90rnMAfvMxZcHLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003317410083-b0387v49asag5c83v9np4s48uggefan4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
